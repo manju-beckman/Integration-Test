@@ -1,0 +1,14 @@
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.AssemblyInfo.cs
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\bin\Debug\net8.0\IntegrationTest.exe
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\bin\Debug\net8.0\IntegrationTest.deps.json
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\bin\Debug\net8.0\IntegrationTest.runtimeconfig.json
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\bin\Debug\net8.0\IntegrationTest.dll
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\bin\Debug\net8.0\IntegrationTest.pdb
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.dll
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\refint\IntegrationTest.dll
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.pdb
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\IntegrationTest.genruntimeconfig.cache
+C:\Users\mramamurthy\Integration Testing\IntegrationTest\IntegrationTest\obj\Debug\net8.0\ref\IntegrationTest.dll
